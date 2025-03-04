@@ -3,9 +3,7 @@ Date: 2025-2-25 12:00
 Category: Resume
 
 # DANIEL GORBAN
-Cell: (431) 777-4789 E-mail: daniel@gorban.org github.com/DanielGorban
-
-------------------
+Cell: (431) 777-4789 E-mail: daniel@gorban.org [GitHub](https://github.com/DanielGorban)
 
 ## Profile
 Eager computer science student with experience in object-oriented programming. Strong
@@ -13,13 +11,11 @@ background in problem-solving and time management from previous work in fast-pac
 environments. Excited to gain real-world experience and grow as a developer.
 
 ## EDUCATION
-------------------
-**Computer Science, B.Sc. Major -** _University of Manitoba_ Sep 2022 – present  
-**Economics Minor -** _University of Manitoba_ Sep 2022 – present.  
+**Computer Science, B.Sc. Major -** _University of Manitoba_, Sep 2022 – present  
+**Economics Minor -** _University of Manitoba_, Sep 2022 – present.  
 **Courses taken this year:** Distributed Computing, Databases, Human-Computer Interaction.  
 
 ## PROJECTS
-------------------
 **Blockchain Peer:** Python  
 - Can copy and verify a chain in 30 seconds with 70 peers and over 2000 blocks in the chain.  
 - The connection between peers is built using UDP sockets.  
@@ -40,13 +36,11 @@ environments. Excited to gain real-world experience and grow as a developer.
 - Overcame challenges in state management, ensuring accurate and efficient move selection.  
 
 ## WORK HISTORY
-------------------
-**Prep/Line cook -** _Montana’s_ Mar 2022 – Apr 2023  
+**Prep/Line cook -** _Montana’s_, Mar 2022 – Apr 2023  
 - Worked in a team to prepare and cook 200 – 400 meals in a shift.  
 - Worked under pressure while maintaining high quality work.  
 
 ## TECHNICAL SKILLS
-------------------
 **Languages and Databases:** Java, C#, JavaScript, HTML, CSS, C, C++, TypeScript, Swift.  
 **Framework and Libraries:** React, Node.js, Express.js, SwiftUI.  
 **Developer Tools:** Git, GitHub, VS Code, Visual Studio, Xcode.
