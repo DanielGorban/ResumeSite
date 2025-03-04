@@ -3,11 +3,11 @@ This README is geared towards people who want to build a similar website with at
 
 ## getting started
 ### Prerequisites.
-* A GitHub account
-* An editor
-* Pelican downloded
-* Knowledge of Markdown
-* Basic knowledge of Git
+* A GitHub account.
+* An editor.
+* Pelican downloded.
+* Knowledge of Markdown.
+* Basic knowledge of Git.
 
 At the *Further Resources/Readings* there is tutorials to help with getting the prerequisite knowledge.
 ### Instructions.  
@@ -27,25 +27,34 @@ At the *Further Resources/Readings* there is tutorials to help with getting the 
 3. Add a section heading underneath like this:
 
         ## Heading name
-4. Write what you want in it.
+
+    According to Etter there should be a bias towards including headers as they make the wroting more aprochible.   
+
+4. Write what you want in it. As a recommendations for something like a job postion you can write something like this:
+
+        **Job Title -** _Company Name_, StartDate – EndDate  
+        * Information about the job
+
+    Using inline styles to offset offset different sections of the job description help with visual clearity and makes it easy to find inprted informaion.
+
 5. Repeat step 3 and 4 until everything you wanted to include in the resume is there.
 #### Hosting
-1. Create a GitHub account
-2. Create a repository and make sure it is public
-2. Go to setting in the repository
-3. Go to the pages page under Code and automation
-4. Pick the source and save 
-5. After waiting for a bit refresh the page
-6. Click on the **Visit site** button on the GitHub Pages page
+1. Create a GitHub account.
+2. Create a repository and make sure it is public.
+2. Go to setting in the repository.
+3. Go to the pages page under Code and automation.
+4. Pick the source and save.
+5. After waiting for a bit refresh the page.
+6. Click on the **Visit site** button on the GitHub Pages page.
 #### Running
 Using a terminal:
 * To run use the following in the teminal while being in the root of the file:  
 
         pelican -r -l
 Using GitHub:
-1. Go to setting in the repository
-2. Go to the pages page under Code and automation
-5. Click on the **Visit site** button on the GitHub Pages page
+1. Go to setting in the repository.
+2. Go to the pages page under Code and automation.
+5. Click on the **Visit site** button on the GitHub Pages page.
 
 ## Further Resources/Readings
 * [GitHub Tutorial](https://docs.github.com/en/get-started)  
