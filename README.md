@@ -13,7 +13,7 @@ At the *Further Resources/Readings* there is tutorials to help with getting the 
 ### Instructions.  
 #### Setup
 1. 
-2. Create a Markdown file in the content File that is automatically created when you creat a pelican project  
+2. Create a Markdown file in the content folder that is automatically created when you create a pelican project  
 3. Create a Title, Date, and Category for the file in the top 3 lines of the file like this:  
 
         Title: name  
@@ -28,7 +28,7 @@ At the *Further Resources/Readings* there is tutorials to help with getting the 
 
         ## Heading name
 
-    According to Etter there should be a bias towards including headers as they make the wroting more aprochible.   
+    According to Etter there should be a bias towards including headers as they make the writing more approachable.   
 
 4. Write what you want in it. As a recommendations for something like a job postion you can write something like this:
 
@@ -46,9 +46,12 @@ At the *Further Resources/Readings* there is tutorials to help with getting the 
 4. Pick the source and save.
 5. After waiting for a bit refresh the page.
 6. Click on the **Visit site** button on the GitHub Pages page.
+
+#### Publishing
+
 #### Running
 Using a terminal:
-* To run use the following in the teminal while being in the root of the file:  
+* To run use the following in the teminal while being in the root of the project:  
 
         pelican -r -l
 Using GitHub:
