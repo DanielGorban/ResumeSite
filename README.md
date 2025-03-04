@@ -12,8 +12,9 @@ This README is geared towards people who want to build a similar website with at
 At the *Further Resources/Readings* there is tutorials to help with getting the prerequisite knowledge.
 ### Instructions.  
 #### Setup
-1. Create a Markdown file in the content File that is automatically created when you creat a pelican project  
-2. Create a Title, Date, and Category for the file in the top 3 lines of the file like this:  
+1. 
+2. Create a Markdown file in the content File that is automatically created when you creat a pelican project  
+3. Create a Title, Date, and Category for the file in the top 3 lines of the file like this:  
 
         Title: name  
         Date: yyyy-mm-dd hh:mm   
@@ -29,16 +30,29 @@ At the *Further Resources/Readings* there is tutorials to help with getting the 
 4. Write what you want in it.
 5. Repeat step 3 and 4 until everything you wanted to include in the resume is there.
 #### Hosting
-1. 
+1. Create a GitHub account
+2. Create a repository and make sure it is public
+2. Go to setting in the repository
+3. Go to the pages page under Code and automation
+4. Pick the source and save 
+5. After waiting for a bit refresh the page
+6. Click on the **Visit site** button on the GitHub Pages page
 #### Running
-To run use the following in the teminal while being in the root of the file:  
+Using a terminal:
+* To run use the following in the teminal while being in the root of the file:  
 
-    pelican -r -l
+        pelican -r -l
+Using GitHub:
+1. Go to setting in the repository
+2. Go to the pages page under Code and automation
+5. Click on the **Visit site** button on the GitHub Pages page
+
 ## Further Resources/Readings
 * [GitHub Tutorial](https://docs.github.com/en/get-started)  
 * [Git Tutorial](https://git-scm.com/docs/gittutorial)  
 * [Pelican Tutorial](https://docs.getpelican.com/en/latest/)  
-* [Markdown Tutorial](https://www.markdownguide.org/basic-syntax/)  
+* [Markdown Tutorial](https://www.markdownguide.org/basic-syntax/)   
+
 ## FAQ
 1. Q. Why is Markdown better than writing raw HTML?  
     A. it has a clean syntax that makes it simple for peopel to understaned and use.  
